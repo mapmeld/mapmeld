@@ -1,6 +1,6 @@
 👋 <br/>
  I am looking for a job on a web platform, especially if you do something with LLMs, maps, language, democracy, or helping people out.
- Most recently worked on an ML platform (HP Enterprise's Determined.AI) and a DIY redistricting site for educators and activists
+ Most recently worked on an ML metrics platform, and a DIY redistricting site for educators and activists.
 
 Fun facts:
  - I used to be a digital nomad in Airbnbs: https://qz.com/643181/the-life-of-a-modern-day-nomad-who-hops-from-airbnb-to-airbnb-every-few-weeks
