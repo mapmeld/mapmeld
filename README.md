@@ -1,4 +1,4 @@
-\I am looking for a job on a web platform, especially if you do something with LLMs, maps, language, or open government.
+I am looking for a job on a web platform, especially if you do something with LLMs, maps, language, or open government.
  Most recently worked on an ML metrics platform, and a DIY redistricting site for educators and activists.
 
 ML open source:<br/>
